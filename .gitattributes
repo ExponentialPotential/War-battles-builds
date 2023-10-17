@@ -7,3 +7,6 @@
 *.wav binary
 *.arcd0 binary
 *.wasm binary
+*.dmanifest0 binary
+*.projectc0 binary
+*.der0 binary
