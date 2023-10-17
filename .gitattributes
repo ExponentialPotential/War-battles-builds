@@ -1,0 +1,9 @@
+* text eol=crlf
+*.dae binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+*.wav binary
+*.arcd0 binary
+*.wasm binary
